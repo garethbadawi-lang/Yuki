@@ -4,17 +4,17 @@ import { BookingForm } from "@/components/booking/BookingForm";
 const incallPlans = [
   {
     duration: "60 minutes",
-    rate: "£250",
+    rate: "$250",
     notes: "Private incall appointment in a secure, respectful setting.",
   },
   {
     duration: "2 hours",
-    rate: "£450",
+    rate: "$450",
     notes: "Extended session with extra time for a relaxed pace.",
   },
   {
     duration: "Overnight (10 hours)",
-    rate: "£1,600",
+    rate: "$1,600",
     notes: "Overnight booking with agreed schedule and boundaries.",
   },
 ];
@@ -22,17 +22,17 @@ const incallPlans = [
 const outcallPlans = [
   {
     duration: "60 minutes",
-    rate: "£300",
+    rate: "$300",
     notes: "Outcall within approved service zones.",
   },
   {
     duration: "2 hours",
-    rate: "£550",
+    rate: "$550",
     notes: "Extended outcall with travel and arrival window included.",
   },
   {
     duration: "Overnight (10 hours)",
-    rate: "£1,900",
+    rate: "$1,900",
     notes: "Overnight outcall with prior verification and deposit.",
   },
 ];
